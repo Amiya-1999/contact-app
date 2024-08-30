@@ -1,0 +1,10 @@
+.ui.menu>.container {
+    justify-content: center;
+}
+
+.ui.main {
+
+    h2 {
+        margin-top: 50px !important;
+    }
+}
